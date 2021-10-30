@@ -4,6 +4,10 @@ This is a project for the University's Microbotics course. It consists of the pr
 
 This has been programmed in C  and has been implemented in Tiva launchpad C Series, specifically in **TM4C123GH6PM** model. It implements FreeRTOS to manage different tasks. 
 
+The robot has different sensors, 4 line followers (2 at the front and 2 at the back). A SHARP infrared distance sensor and an endstop switch at the rear in order to detect if the enemy is approaching from there.
+
+Also, it has a ramp at the front to eliminate enemies.
+
 # Installation
 
 To install it only need to download the files from the repository and import the project directly in **Code Composer Studio**.
