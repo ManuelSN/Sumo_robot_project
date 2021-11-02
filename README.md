@@ -1,14 +1,16 @@
 # Sumo Robot Project :robot:
 
-<IMG align="left" src="https://raw.githubusercontent.com/Sumo_robot_project/tree/main/data/images/Sumo_Robot.jpg" width="470" height="651">
+<IMG align="left" src="https://github.com/ManuelSN/Sumo_robot_project/blob/main/data/images/Sumo_Robot.jpg" width="580" height="440">
   
-This is a project for the University's Microbotics course. It consists of the programming and customisation of a robot, in order to fight against others and expel them from the round tatami.
+<span>This is a project for the University's Microbotics course. It consists of the programming and customisation of a robot, in order to fight against others and expel them from the round tatami.<span>
 
-This has been programmed in C  and has been implemented in Tiva launchpad C Series, specifically in **TM4C123GH6PM** model. It implements FreeRTOS to manage different tasks. 
+<span>This has been programmed in C  and has been implemented in Tiva launchpad C Series, specifically in **TM4C123GH6PM** model. It implements FreeRTOS to manage different tasks.<span>
 
-The robot has different sensors, 4 line followers (2 at the front and 2 at the back). A SHARP infrared distance sensor and an endstop switch at the rear in order to detect if the enemy is approaching from there.
+<span>The robot has different sensors, 4 line followers (2 at the front and 2 at the back). A SHARP infrared distance sensor and an endstop switch at the rear in order to detect if the enemy is approaching from there.<span>
 
-Also, it has a ramp at the front to eliminate enemies.
+<span>Also, it has a ramp at the front to eliminate enemies.<span><br><br><br>
+  
+  
 
 # Installation
 
