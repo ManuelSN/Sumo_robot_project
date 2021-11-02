@@ -8,7 +8,7 @@
 
 <span>The robot has different sensors, 4 line followers (2 at the front and 2 at the back). A SHARP infrared distance sensor and an endstop switch at the rear in order to detect if the enemy is approaching from there.<span>
 
-<span>Also, it has a ramp at the front to eliminate enemies.<span><br><br><br>
+<span>Also, it has a ramp at the front to eliminate enemies.<span><br><br><br><br><br>
   
   
 
