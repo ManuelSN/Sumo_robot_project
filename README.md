@@ -1,6 +1,6 @@
 # Sumo Robot Project :robot:
 
-<IMG align="left" src="https://github.com/ManuelSN/Sumo_robot_project/blob/main/data/images/Sumo_Robot.jpg" width="700" height="480">
+<IMG align="left" src="https://github.com/ManuelSN/Sumo_robot_project/blob/main/data/images/Sumo_Robot.jpg" width="660" height="500">
   
 <span>This is a project for the University's Microbotics course. It consists of the programming and customisation of a robot, in order to fight against others and expel them from the round tatami.<span>
 
@@ -8,8 +8,7 @@
 
 <span>The robot has different sensors, 4 line followers (2 at the front and 2 at the back). A SHARP infrared distance sensor and an endstop switch at the rear in order to detect if the enemy is approaching from there.<span>
 
-<span>Also, it has a ramp at the front to eliminate enemies.<span><br><br><br><br><br>
-  
+<span>Also, it has a ramp at the front to eliminate enemies.<span><br><br><br>
   
 
 # Installation
