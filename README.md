@@ -1,5 +1,7 @@
 # Sumo Robot Project :robot:
 
+<IMG align="left" src="https://raw.githubusercontent.com/Sumo_robot_project/main/data/images/Sumo_Robot.jpg" width="470" height="651">
+  
 This is a project for the University's Microbotics course. It consists of the programming and customisation of a robot, in order to fight against others and expel them from the round tatami.
 
 This has been programmed in C  and has been implemented in Tiva launchpad C Series, specifically in **TM4C123GH6PM** model. It implements FreeRTOS to manage different tasks. 
