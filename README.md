@@ -1,6 +1,6 @@
 # Sumo Robot Project :robot:
 
-<IMG align="left" src="https://github.com/ManuelSN/Sumo_robot_project/blob/main/data/images/Sumo_Robot.jpg" width="520" height="400">
+<IMG align="left" src="https://github.com/ManuelSN/Sumo_robot_project/blob/main/data/images/Sumo_Robot.jpg" width="700" height="480">
   
 <span>This is a project for the University's Microbotics course. It consists of the programming and customisation of a robot, in order to fight against others and expel them from the round tatami.<span>
 
